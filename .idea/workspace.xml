@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="004f0a30-a177-48d9-980b-67324bffafb6" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/manage.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/apps/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/apps/users/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/apps/users/admin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/apps/users/apps.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/apps/users/migrations/0001_initial.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/apps/users/migrations/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/apps/users/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/apps/users/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/apps/users/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/apps/users/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/libs/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/settings/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/settings/dev.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/base.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/cart.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/css/jquery.pagination.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/css/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/detail.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/goods_judge.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/QQ-weixin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/adv01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/adv02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/banner01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/banner02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/banner03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/bar_code.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/cat.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/clock.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/clock.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/edit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/find-password.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/goods/goods001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/goods/goods002.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/goods/goods003.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/goods/goods004.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/goods/goods005.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/goods/goods006.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/goods/goods007.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/goods/goods008.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/goods/goods009.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/goods_450.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/icons02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/interval_line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/left_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/login_banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/logo02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/missing.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/pay_icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/pic_code.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/register_banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/selected.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/shine.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/shop_cart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/slide01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/slide02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/slide03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/slide04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/stars.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/success.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/images/time_count_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/js/axios-0.18.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/js/base.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/js/cart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/js/common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/js/detail.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/js/goods_judge.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/js/host.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/js/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/js/jquery-1.12.4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/js/jquery.pagination.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/js/list.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/js/login.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/js/oauth_callback.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/js/order_success.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/js/place_order.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/js/register.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/js/slide.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/js/user_center_info.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/js/user_center_order.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/js/user_center_pass.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/js/user_center_site.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/js/vue-2.5.16.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/oauth_callback.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/order_success.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/pay_success.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/place_order.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/search.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/user_center_info.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/user_center_order.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/user_center_pass.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/static/user_center_site.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/templates/register.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/utils/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/utils/jinja2_env.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meiduo_mall1/wsgi.py" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1375" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meiduo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meiduo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meiduo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meiduo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meiduo_mall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meiduo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meiduo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meiduo_mall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="logs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="004f0a30-a177-48d9-980b-67324bffafb6" name="Default" comment="" />
+      <created>1558684527980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558684527980</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1375" height="876" extended-state="7" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2539924" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32791328" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24942966" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/settings/dev.py" />
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/users/models.py" />
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/settings/dev.py" />
+  </component>
+</project>
